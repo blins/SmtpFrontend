@@ -1,0 +1,10 @@
+
+English
+
+    INSTALL
+
+    1. Install phpdaemon on https://github.com/kakserpom/phpdaemon
+    2. Put SmtpFrontend.php to <phpdaemon directory>/application/
+    3. Put SmtpFrontend.conf to <phpdaemon directory>/conf/conf.d/
+    4. Edit file SmtpFrontend.conf for you
+    5. Start phpdaemon.
