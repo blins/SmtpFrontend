@@ -59,7 +59,7 @@ class SmtpFrontend extends AsyncServer {
 class SmtpFrontendSession extends SocketSession {
 
         //
-        public $server_name = 'mail.schools.tyumen-city.ru';
+        public $server_name = 'smtp.subdomains.domain.org';
         public $upstream = null;
         public $commands = array();
         public $CRLF = "\r\n";
